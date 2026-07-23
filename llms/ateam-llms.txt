@@ -1,0 +1,57 @@
+# a.team
+
+> Enterprise AI talent network that connects companies with elite tech builders to design, build, and scale AI products and solutions.
+
+## About
+
+a.team is a network of elite tech talent — senior engineers, product managers, designers, and data scientists — that helps companies build and ship AI products faster. The platform matches enterprises with pre-vetted expert teams for AI development, providing both dedicated talent and full-team engagements. a.team serves Fortune 500 companies and high-growth startups across industries including CPG, healthcare, financial services, legal, and government.
+
+## Core Pages
+
+- [Homepage](https://www.a.team/): Overview of a.team's value proposition, client logos, talent profiles, testimonials, and case studies.
+- [About](https://www.a.team/about): Company mission, leadership team, culture, and history.
+- [Solutions](https://www.a.team/solutions): AI agent solutions and custom AI development services for enterprises.
+- [Expert Teams](https://www.a.team/expert-teams): How a.team assembles cross-functional teams of senior builders for client projects.
+- [Expert Talent](https://www.a.team/expert-talent): Individual talent profiles and how companies can hire senior tech professionals.
+- [AI Talent](https://www.a.team/ai-talent): Specialized AI/ML engineers, data scientists, and AI product builders available through the network.
+- [Case Studies](https://www.a.team/case-studies): Client success stories across industries and use cases.
+- [Join](https://www.a.team/join): Application page for tech builders who want to join the a.team network.
+- [Events](https://www.a.team/events): Industry events, AI salons, and speaking engagements hosted by a.team.
+- [Blog (Build Mode)](https://www.a.team/insights): 195+ articles on AI strategy, engineering leadership, talent trends, and technical best practices. Also accessible at blog.a.team.
+
+## Solutions
+
+AI agent and automation solutions built by expert teams:
+
+- [Voice Agent](https://www.a.team/solutions/voice-agent): Conversational AI voice agents for customer service and internal operations.
+- [Market Data Analyst Agent](https://www.a.team/solutions/market-data-analyst-agent): AI agents for market research, competitive analysis, and data-driven insights.
+- [Legal Document Processing Agent](https://www.a.team/solutions/legal-document-processing-agent): AI-powered legal document review, extraction, and analysis.
+- [Reporting Assistant](https://www.a.team/solutions/reporting-assistant): Automated reporting and business intelligence agents.
+- [Investment Due Diligence Agent](https://www.a.team/solutions/investment-due-diligence-agent): AI agents for financial analysis and investment evaluation.
+- [Municipal Code Workflow Agent](https://www.a.team/solutions/municipal-code-workflow-agent): AI agents for government compliance and municipal code processing.
+
+## Case Studies
+
+Client case studies are published at `https://www.a.team/case-studies/[slug]`.
+
+Published case studies include work with clients such as Chief, PetRetailer, IDC, Ziggiz, Growth Warrior Capital, Morgan & Morgan, Sandow, and Plato Systems. Case studies cover AI product development, team augmentation, and digital transformation across healthcare, legal, financial services, retail, and other industries.
+
+## Blog (Build Mode)
+
+The a.team blog, branded as "Build Mode," is available at `https://www.a.team/insights` with individual posts at `https://www.a.team/insights/[slug]`. The blog contains 195+ articles covering:
+
+- AI strategy and implementation
+- Engineering leadership and team building
+- Talent market trends and hiring insights
+- Technical deep dives and architecture patterns
+- Industry-specific AI applications (CPG, healthcare, finance, legal)
+
+## Events
+
+a.team hosts AI-focused events including Gen AI Salons and industry panels. Event pages are at `https://www.a.team/events` with detail pages at `https://www.a.team/events/[slug]`.
+
+## Contact
+
+- [Book a Consultation](https://www.a.team/book-consultation): Schedule a call with a.team to discuss AI talent needs and project requirements.
+- [Get Started](https://www.a.team/get-started): Begin the process of hiring AI talent or building an expert team.
+- [Join the Network](https://www.a.team/join): Apply to join a.team as a tech builder.

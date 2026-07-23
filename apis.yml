@@ -1,7 +1,18 @@
 aid: ateam
 name: A.Team
-description: A.Team is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  A.Team is an enterprise AI talent network that connects companies with elite,
+  pre-vetted tech builders — senior engineers, product managers, designers, and
+  data scientists — to design, build, and scale AI products and solutions. The
+  platform matches Fortune 500 companies and high-growth startups with dedicated
+  talent and full cross-functional "expert teams," and increasingly delivers
+  packaged AI agent solutions (voice agents, market-data and reporting agents,
+  legal-document and due-diligence agents, municipal-code workflow agents) that
+  integrate into existing tools like Slack, Teams, PowerPoint, and Excel. A.Team
+  operates as a services and talent-marketplace business rather than a
+  self-service developer API provider; it exposes no public API, developer
+  portal, or API documentation. It was surfaced as a portfolio company of Insight
+  Partners and added to the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/ateam/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +20,30 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://www.a.team/images/og-default.webp
 tags:
 - Company
+- Talent Network
+- AI Talent
+- Staffing
+- AI Solutions
+- AI Agents
+- Engineering
+- Consulting
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.a.team/
+- type: Blog
+  url: https://www.a.team/insights
+- type: SignUp
+  url: https://www.a.team/get-started
+- type: Login
+  url: https://www.a.team/admin
+- type: TermsOfService
+  url: https://platform.a.team/terms-of-service
+- type: PrivacyPolicy
+  url: https://platform.a.team/privacy-policy
+- type: LLMsTxt
+  url: llms/ateam-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
